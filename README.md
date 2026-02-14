@@ -53,21 +53,6 @@ pip install -r requirements.txt
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-
-git clone https://https://github.com/SaiPrabhathDevalla/Virtual-Pen.git
-cd your-repo-name
-
-2. Run the program:
-
-python virtual_pen.py
-
-3. Press `q` to exit the application.
-
----
-
 ## Controls
 
 | Action | Description |
