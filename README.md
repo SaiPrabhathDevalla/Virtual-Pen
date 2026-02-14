@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://https://github.com/SaiPrabhathDevalla/Virtual-Pen.git
 cd your-repo-name
 
 2. Run the program:
@@ -91,16 +91,6 @@ The application includes adjustable HSV trackbars to adapt to different lighting
 - Lower Value
 
 Adjust these values until the colored object is properly detected.
-
----
-
-## Project Structure
-
-Virtual-Pen/
-│
-├── virtual_pen.py
-├── requirements.txt
-└── README.md
 
 ---
 
